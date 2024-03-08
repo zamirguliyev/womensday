@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Kavivanar';
+    src: url('Kavivanar-Regular.woff2') format('woff2'),
+        url('Kavivanar-Regular.woff') format('woff'),
+        url('Kavivanar-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
